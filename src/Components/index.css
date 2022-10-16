@@ -1,0 +1,63 @@
+/*.first{
+    width: 50%;
+    float: left;
+    height: 350px;
+    color: aliceblue;
+    
+    align-items: left;
+ 
+}
+*/
+.second{
+    width: 50%;
+    height: 350px;
+    float: left;
+    color: aliceblue;
+    background-color: aqua;
+    align-items: right;
+ 
+ 
+}
+
+.third{
+    width: 50%;
+    height: 350px;
+    background-color: aqua;
+    color: aliceblue;
+    float: left;
+ 
+ 
+}
+
+.fourth{
+    width: 50%;
+    height: 350px;
+    float: left;
+    color: aliceblue;
+    background-color: rgb(8, 8, 8);
+    align-items: left;
+    
+    align-items: right;
+ 
+ 
+}
+
+.main{
+    display: float;
+   
+}
+
+.adminLoginForm{
+    background-color: aqua;
+    border:  2px solid black;
+    border-radius: 10px;
+    text-align:center;    
+    background-image:-moz-repeating-linear-gradient();
+    
+
+    
+}
+
+
+
+
